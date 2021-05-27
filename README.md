@@ -11,6 +11,8 @@
 ## Screenshots
   
 ## Technologies
+  * Python
+  * PyGame
   
 ## Setup
   
