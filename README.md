@@ -1,4 +1,4 @@
-# SimplePythonGame
+# SimplePythonGame 
 * General info
 * Screenshots
 * Technologies
@@ -17,6 +17,7 @@
 ## Setup
   
 ## Features
+For now its just a simple **Snake game**.
 
 ## Code sample
 ```
@@ -25,3 +26,4 @@
     game_display.blit(text, [0, 0])
  ``` 
 ## Status
+Project is: *in progress*
