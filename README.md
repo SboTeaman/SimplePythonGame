@@ -17,5 +17,11 @@
 ## Setup
   
 ## Features
-  
+
+## Code sample
+```
+  def print_score(score):
+    text = score_font.render("Score: " + str(score), True, orange)
+    game_display.blit(text, [0, 0])
+ ``` 
 ## Status
