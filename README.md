@@ -9,7 +9,7 @@
 ## General info
   Simple python game. It is a base to implement **Genetic algorithm**.
 ## Screenshots
-  ![Image of the game](https://raw.githubusercontent.com/SboTeaman/SimplePythonGame/master/SnakeGame.png?token=AOVS2YNBENJG3MY7IIGASFLAWAQGE)
+  ![Image of the game](https://github.com/SboTeaman/SimplePythonGame/blob/master/SnakeGame.png)
 ## Technologies
   * Python
   * PyGame
